@@ -1,0 +1,17 @@
+# Data directories
+image_data/
+*.jpg
+*.png
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.pkl
+
+# OS
+.DS_Store
